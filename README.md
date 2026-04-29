@@ -5,5 +5,3 @@
 - lista 1 
 - lista 2 
 [enlace a github](URL)
-
-asd
